@@ -8,7 +8,7 @@ using SalesWebMVC.Models;
 
 namespace SalesWebMVC.Migrations
 {
-    [DbContext(typeof(SalesWebMVCContext))]
+    [DbContext(typeof(SalesWebMvcContext))]
     [Migration("20200121111128_OtherEntities")]
     partial class OtherEntities
     {
